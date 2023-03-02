@@ -1,0 +1,29 @@
+ body {
+    font-family: arial, verdana, sans-serif;
+  }
+  
+  header, footer { text-align:center; width: 100%; }
+  
+  header {
+    height: 40px;
+    font-size: 40px;
+    font-weight: bold;
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+  
+  footer {
+    margin-top: 20px;
+  }
+
+  #content_video {
+    overflow: hidden;
+  }
+
+.para{
+    margin: 4% 10% 4% 10%;
+}
+
+.video{
+    margin: 0% 20% 0% 30%;
+}
